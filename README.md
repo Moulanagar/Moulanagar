@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Arham mohammmad
+- 👋 Hi, ALL
 - 👀 I’m interested in exploring new technologies
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web projects
-- 📫 U can reach me @ arhamequbal123@gmail.com
 - Thank you!!!
 - Hope to see u soon :)
 
